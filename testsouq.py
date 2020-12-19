@@ -36,4 +36,4 @@ for page in range(1000):
             file.write(",\n")             
 file.write("\n]")
 filecsv.close()
-file.close(
+file.close()
